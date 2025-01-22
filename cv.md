@@ -24,7 +24,7 @@ Hardworking, purposeful, disciplined. The goal is to master frontend and backend
 - **Development Tools:** Git, GitHub, Visual Studio Code
 
 
----
+
 ## Code examples:
  
 ```
@@ -33,12 +33,12 @@ let a = '5' + '1';
 console.log(a); // 51
 ```
 
----
+
  ## Project
 
 https://github.com/Faratora/stepik
 
----
+
 ### Education and completed courses
 
 * Higher education, engineer;
