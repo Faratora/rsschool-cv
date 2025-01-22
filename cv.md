@@ -4,10 +4,10 @@
 
 ## Contacts  
 
-- **Email:** brigantina@mail.ru  
-- **GitHub:** [Faratora](https://github.com/Faratora/)
-- **Discord:** [Savina Svetlana(@Faratora20)](https://discordapp.com)
 - **Phone:** +375255143891  
+- **E-mail:** brigantina@mail.ru  
+- **GitHub:** [Faratora](https://github.com/Faratora/)
+- **Discord:** Savina Svetlana(@Faratora20)
 - **LinkedIn:** [linkedin](www.linkedin.com/in/faratora)  
 
 
@@ -21,7 +21,7 @@ Hardworking, purposeful, disciplined. The goal is to master frontend and backend
 ## Skills
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Development Tools:** Git, GitHub, Visual Studio Code
+- **Development Tools:** Git, GitHub, Visual Studio Code, Photoshop
 
 
 
@@ -39,12 +39,11 @@ console.log(a); // 51
 https://github.com/Faratora/stepik
 
 
-### Education and completed courses
+## Education and completed courses
 
 * Higher education, engineer;
 
-* HTML, CSS;
+## Languages
 
-* JS;
-
+* Russian: native speaker
 * English: I read and translate with a dictionary;
