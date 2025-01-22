@@ -1,6 +1,6 @@
 #   Savina Svetlana 
 
-
+![Savina Svetlana](/img/avatar.jpg)
 
 ## Contacts  
 
