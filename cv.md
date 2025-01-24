@@ -42,8 +42,9 @@ https://github.com/Faratora/stepik
 ## Education and completed courses
 
 * Higher education, engineer;
+* In the process of studying HTML courses on the website [freecodecamp.org](https://www.freecodecamp.org/), [stepik.org](https://stepik.org/)and rollingscopes.com
 
 ## Languages
 
-* Russian: native speaker
-* English: I read and translate with a dictionary;
+* ___Russian:___ native speaker
+* ___English___ in progress: I read and translate with a dictionary;
