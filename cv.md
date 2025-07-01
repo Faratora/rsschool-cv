@@ -33,6 +33,8 @@ console.log(a); // 51
 
  ## Project
 
+ https://github.com/Faratora/stepik
+
  ## Education and completed courses
 
  ## Languages
