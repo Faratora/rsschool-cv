@@ -1,7 +1,5 @@
 #   Savina Svetlana 
 
-![Savina Svetlana]
-
 ## Contacts  
 
 - **Phone:** +375255143891  
