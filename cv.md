@@ -24,6 +24,13 @@ Hardworking, purposeful, disciplined. The goal is to master frontend and backend
 
 ## Code examples:
 
+ 
+```
+let a = '5' + '1';
+ 
+console.log(a); // 51
+```
+
  ## Project
 
  ## Education and completed courses
