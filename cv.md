@@ -18,6 +18,10 @@ Hardworking, purposeful, disciplined. The goal is to master frontend and backend
 
 ## Skills
 
+- **Frontend:** HTML, CSS, JavaScript
+- **Development Tools:** Git, GitHub, Visual Studio Code, Photoshop
+
+
 ## Code examples:
 
  ## Project
