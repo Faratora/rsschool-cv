@@ -37,5 +37,11 @@ console.log(a); // 51
 
  ## Education and completed courses
 
+* Higher education, engineer;
+* In the process of studying HTML courses on the website [freecodecamp.org](https://www.freecodecamp.org/), [stepik.org](https://stepik.org/)and rollingscopes.com
+
+
  ## Languages
 
+* ___Russian:___ native speaker
+* ___English___ in progress: I read and translate with a dictionary;
