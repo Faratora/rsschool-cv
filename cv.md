@@ -1,6 +1,14 @@
 #   Savina Svetlana 
 
+![Savina Svetlana]
+
 ## Contacts  
+
+- **Phone:** +375255143891  
+- **E-mail:** brigantina@mail.ru  
+- **GitHub:** [Faratora](https://github.com/Faratora/)
+- **Discord:** Savina Svetlana(@Faratora)
+- **LinkedIn:** [linkedin](www.linkedin.com/in/faratora)  
 
 ##  About me
 
