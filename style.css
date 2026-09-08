@@ -1,0 +1,67 @@
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+html {
+  scroll-behavior: smooth; /* плавная прокрутка по якорям */
+}
+
+body {
+font-family: "Roboto", sans-serif;
+background-color: #f0fdf4;
+width: 960px;
+margin: 10px auto;
+}
+
+/* header  */
+.header {
+background-color: #17c574;
+padding: 15px 0;
+}
+.wrapper-header {
+display: flex;
+justify-content: space-around;
+align-items: center;
+max-width: 100%;
+margin: 0 auto;
+}
+.header__logo {
+width: 90px;
+padding-left: 20px;
+}
+.nav-list {
+display: flex;
+list-style: none;
+justify-content: space-between;
+}
+.nav a {
+color: #0e0d0d;
+margin-right: 10px;
+text-decoration: none;
+font-weight: bold;
+text-decoration: none;
+padding: 0 10px;
+line-height: 30px;
+display: inline-block;
+position: relative;
+}
+.nav a::before {
+display: block;
+position: absolute;
+content: "";
+height: 2px;
+width: 0;
+background-color: #110907;
+transition: width .5s ease-in-out, left .5s ease-in-out;
+left: 50%;
+bottom: 0;
+}
+.nav a:hover::before {
+width: 100%;
+left: 0;
+}
+.nav a:hover {
+color: #074d2c;
+}
