@@ -167,3 +167,22 @@ body {
     width: 300px;
     margin-left: 40px;
 }
+
+/* footer */
+.footer{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #17c574;
+  height: 50px;
+  gap: 300px; 
+  }
+  
+.footer__github {
+  display: flex;
+  align-items: center;      /* вертикальное выравнивание */
+   gap: 10px;               /* расстояние между картинкой и текстом */
+}
+
+
+
